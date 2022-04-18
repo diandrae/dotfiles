@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = diandraelmira@gmail.com
+	name = diandra elmira
